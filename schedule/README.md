@@ -1,0 +1,3 @@
+## 일정 API 설계
+
+| Aa 기능 | Method | URL | request | response | 상태코드 |
